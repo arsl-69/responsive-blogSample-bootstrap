@@ -1,0 +1,1 @@
+# responsive-blogSample-bootstrap
